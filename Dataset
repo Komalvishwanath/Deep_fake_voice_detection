@@ -1,0 +1,14 @@
+Note:
+
+Dataset Unavailable Due to Size Constraints
+
+The complete dataset is currently unavailable for upload due to its large size.
+
+Dataset Specifications:
+
+Upon availability, the dataset shold contain audio files of two types:
+
+1. Deepfake Audio: Audio files manipulated to mimic a specific person's voice.
+2. Original Audio: Authentic audio recordings of the same individuals.
+
+All audio files should be in the `.wav` format for consistent processing and analysis. 
